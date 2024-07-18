@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20240702T094947Z
+DESCRIPTION:How to Cloud - Introduction\, de.NBI Cloud &amp\; Project Idea\
+	n\n\n\n\n_________________________________________________________________
+	_______________\nMicrosoft Teams Benötigen Sie Hilfe? \nJetzt an der Besp
+	rechung teilnehmen \nBesprechungs-ID: 377 769 415 41 \nKennung: YeJkcu \n 
+	 ________________________________  \nPer Telefon einwählen \n&#43\;49 69 
+	505004910\,\,128190949# Germany\, Frankfurt am Main \nSuchen einer lokalen
+	 Rufnummer \nTelefonkonferenz-ID: 128 190 949# \nFür Organisatoren: Bespr
+	echungsoptionen | Zurücksetzen der Einwahl-PIN \n\n\n____________________
+	____________________________________________________________\n
+DTEND;TZID="W. Europe Standard Time":20240916T140000
+DTSTAMP:20240702T094947Z
+DTSTART;TZID="W. Europe Standard Time":20240916T100000
+LAST-MODIFIED:20240702T094947Z
+LOCATION:Online
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:de.KCD Summer School 2024 - Day 1
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000008AE6D7260CCDA01000000000000000
+	010000000A8EF75DC8A69E34386A01F7D9E1D662E
+X-ALT-DESC;FMTTYPE=text/html:<p>How to Cloud - Introduction\, de.NBI Cloud 
+	&amp\; Project Idea</P><div><br>\n<br>\n<br>\n<div style="max-width: 520px
+	\; color: #242424\; font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,A
+	rial\,sans-serif" class="me-email-text"><div style="margin-bottom:24px\;ov
+	erflow:hidden\;white-space:nowrap\;">_____________________________________
+	___________________________________________</Div><div style="margin-bottom
+	: 12px\;"><span class="me-email-text" style="font-size: 24px\;font-weight:
+	 700\; margin-right:12px\;">Microsoft Teams</Span> <a id="meet_invite_bloc
+	k.action.help" class="me-email-link" style="font-size:14px\; text-decorati
+	on:underline\; color: #5B5FC7\;" href="https://aka.ms/JoinTeamsMeeting?omk
+	t=de-DE">Benötigen Sie Hilfe?</A> </Div><div style="margin-bottom: 6px\;"
+	><a id="meet_invite_block.action.join_link" title="Meeting join link" clas
+	s="me-email-headline" style="font-size: 20px\; font-weight:600\; text-deco
+	ration: underline\; color: #5B5FC7\;" href="https://teams.microsoft.com/l/
+	meetup-join/19%3ameeting_YjNkYWY3N2ItOGQ1ZS00MjI4LTk5MjYtOTQ1N2U3ZGQ3ZmI0%
+	40thread.v2/0?context=%7b%22Tid%22%3a%22afe91939-923e-432c-bc66-cbc3ec18d0
+	2c%22%2c%22Oid%22%3a%22162bbf8b-ea15-4a0e-899a-cc6f68987ed6%22%7d" target=
+	"_blank" rel="noreferrer noopener">Jetzt an der Besprechung teilnehmen</A>
+	 </Div><div style="margin-bottom: 6px\;"><span class="me-email-text-second
+	ary" style="font-size: 14px\; color: #616161\;">Besprechungs-ID: </Span><s
+	pan class="me-email-text" style="font-size: 14px\; color: #242424\;">377 7
+	69 415 41</Span> </Div><div style="margin-bottom: 24px\;"><span class="me-
+	email-text-secondary" style="font-size: 14px\; color: #616161\;">Kennung: 
+	</Span><span class="me-email-text" style="font-size: 14px\; color: #242424
+	\;">YeJkcu</Span> </Div><div style="margin-bottom: 24px\; max-width: 532px
+	\;"><hr style="border: 0\; background: #D1D1D1\; height: 1px\;"><!-- </hr>
+	 --></Div><div><div style="margin-bottom: 6px\;"><span class="me-email-tex
+	t" style="font-size: 16px\; color: #242424\; font-weight: 600\; margin-rig
+	ht: 4px\;">Per Telefon einwählen</Span> </Div><div style="margin-bottom: 
+	6px\;"><a id="meet_invite_block.action.join_phone_number1" class="me-email
+	-link" style="font-size: 14px\; text-decoration: underline\; color: #5B5FC
+	7\; margin-right: 6px\;" href="tel:+4969505004910\,\,128190949#">&#43\;49 
+	69 505004910\,\,128190949#</A> <span class="me-email-text" style="font-siz
+	e: 14px\; color: #616161\;">Germany\, Frankfurt am Main</Span> </Div><div 
+	style="margin-bottom: 6px\;"><a id="meet_invite_block.action.join_phone_fi
+	nd_local_number" class="me-email-link" style="font-size: 14px\; text-decor
+	ation: underline\; color: #5B5FC7" href="https://dialin.teams.microsoft.co
+	m/30a112f5-d09f-4845-b32c-97cfbfe472d2?id=128190949">Suchen einer lokalen 
+	Rufnummer</A> </Div></Div><div style="margin-bottom: 24px\;"><span class="
+	me-email-text-secondary" style="font-size: 14px\; color: #616161\;">Telefo
+	nkonferenz-ID: </Span><span class="me-email-text" style="font-size: 14px\;
+	 color: #242424\;">128 190 949#</Span> </Div><div><span class="me-email-te
+	xt-secondary" style="font-size: 14px\; color: #616161\;">Für Organisatore
+	n: </Span><a id="meet_invite_block.action.organizer_meet_options" class="m
+	e-email-link" style="font-size: 14px\; text-decoration: underline\; color:
+	 #5B5FC7\;" target="_blank" href="https://teams.microsoft.com/meetingOptio
+	ns/?organizerId=162bbf8b-ea15-4a0e-899a-cc6f68987ed6&tenantId=afe91939-923
+	e-432c-bc66-cbc3ec18d02c&threadId=19_meeting_YjNkYWY3N2ItOGQ1ZS00MjI4LTk5M
+	jYtOTQ1N2U3ZGQ3ZmI0@thread.v2&messageId=0&language=de-DE" rel="noreferrer 
+	noopener">Besprechungsoptionen</A> <span style="color: #D1D1D1">|</Span> <
+	a id="meet_invite_block.action.organizer_reset_dialin_pin" class="me-email
+	-link" style="font-size: 14px\; text-decoration: underline\; color: #5B5FC
+	7\;" target="_blank" href="https://dialin.teams.microsoft.com/usp/pstnconf
+	erencing" rel="noreferrer noopener">Zurücksetzen der Einwahl-PIN</A> </Di
+	v><div style="margin-top: 24px\; margin-bottom: 6px\;"></Div><div style="m
+	argin-bottom: 24px\;"></Div><div style="margin-bottom:24px\;overflow:hidde
+	n\;white-space:nowrap\;">_________________________________________________
+	_______________________________</Div></Div></Div></Body></Html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

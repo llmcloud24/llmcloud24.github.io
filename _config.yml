@@ -1,0 +1,10 @@
+theme: minima
+
+title: de.KCD Summer School 2024
+show_excerpts: false
+
+header_pages:
+  - index.md
+  - schedule.md
+  - contact.md
+  - privacy.md
