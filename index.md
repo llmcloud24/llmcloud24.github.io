@@ -5,7 +5,7 @@ title: Home
 <img width="1239" alt=" 'Deploying LLMs in the Cloud' written over an image of computergenerated waves " src="images/3d-abstract-particl.title.png">
 
 <p align="center">
- <b>Summer School</b> ⬤ <b> de.NBI Cloud</b> ⬤ <b> Large Language Models</b> ⬤ <b> 16-20 September 2024</b> ⬤ <b> Online</b> 
+ <b>Summer School</b> ⬤ <b> de.NBI Cloud</b> ⬤ <b> Large Language Models</b> ⬤ <b> September 16-20, 2024</b> ⬤ <b> Online</b> 
 </p>
 <p align="center">
   <b><a href="">>> Register here <<</a></b>
@@ -53,7 +53,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
   
 ### Organizational details
 
-**Dates:** Monday September 16 - Friday September 20, 2024.
+**Dates:** Monday, September 16 - Friday, September 20, 2024.
 
 **Duration:** Approx. 4h per day, including breaks.
 
