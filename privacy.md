@@ -2,7 +2,7 @@
 layout: page
 title: Privacy
 ---
-### Data Privacy Information according to Art. 13, 14 and 21 EU GDPR: de.KCD Summer School 2024
+#### Data Privacy Information according to Art. 13, 14 and 21 EU GDPR for the de.KCD Summer School 2024
 
 Personal data is any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data or an online identifier.
 

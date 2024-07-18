@@ -8,7 +8,7 @@ title: Home
  <b>Summer School</b> ⬤ <b> de.NBI Cloud</b> ⬤ <b> Large Language Models</b> ⬤ <b> September 16-20, 2024</b> ⬤ <b> Online</b> 
 </p>
 <p align="center">
-  <b><a href="">>> Register here <<</a></b>
+  <b><a href="https://events.hifis.net/event/1712/">>> Register here <<</a></b>
 </p>
 
 ### About
@@ -61,7 +61,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Contact:** For more information, please email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de).
 
-**Registration:** Please register via the [events.hifis.net webform]() by Monday, September 9, 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. 
+**Registration:** Please register via the [events.hifis.net webform](https://events.hifis.net/event/1712) by Monday, September 9, 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. 
 
 **Costs & Benefits:** Registration for the [de.KCD](https://datenkompetenz.cloud/) summer school is free of charge. We will not be able to offer any ECTS credit points but we can provide you with a certificate of attendance upon request. 
 
