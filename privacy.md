@@ -17,7 +17,13 @@ Translationsforschungsbereich der Charité – Universitätsmedizin Berlin
 Anna-Louisa-Karsch-Str. 2  
 D-10178 Berlin  
 Website: [https://www.bihealth.org/en/](https://www.bihealth.org/en/)  
-Email: [info@bih-charite.de](mailto:info@bih-charite.de)
+Email: [info@bih-charite.de](mailto:info@bih-charite.de)  
+
+Organizing Committee of the de.KCDSummer School 2024
+Institute of Digital Health   
+AG Prof. Dr. Roland Eils  
+Group Cloud & IT 
+Email: [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de)  
 
 #### Name and address of the data protection officer
 
@@ -40,16 +46,16 @@ Our contractual documents, forms, consent forms and other information provided t
 #### Categories of personal data processed by us
 
 The following data are processed:
-- Personal end data: first name, last name
-- Contact details: email address
-- Affiliation: name of organization, name of department, country of affiliation
+- first name, last name
+- email address
+- name of organization, name of department, country of affiliation
 
 
 #### Recipients of personal data
 
 We pass on your personal data within our institution to those areas that require this data to fulfil contractual and legal obligations or to implement our legitimate interests. Furthermore, details might be shared with the organizational committee of the meeting.
 
-During your registration with the Helmholtz Federated IT Services tool [events.hifis.net](events.hifis.net), your data is shared with Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, D-22607 Hamburg. For further information you can refer to [their pricacy policy](https://www.desy.de/data_privacy_policy/index_eng.html).
+By registrating with the Helmholtz Federated IT Services tool [events.hifis.net](events.hifis.net), you consent to your data being processed by Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, D-22607 Hamburg according to [their pricacy policy](https://www.desy.de/data_privacy_policy/index_eng.html).
 
 #### Transfer of data to a third country or an international organization
 
@@ -93,7 +99,7 @@ Your data will not be used for automated decision-making or profiling.
 
 This website does not use any cookies. We provide this website by using github.com. Their data protection agreement is available [here](https://github.com/customer-terms/github-data-protection-agreement).
 
-*Last Update: July 17, 2024*
+*Last Update: July 22, 2024*
 
 
 
