@@ -19,10 +19,10 @@ D-10178 Berlin
 Website: [https://www.bihealth.org/en/](https://www.bihealth.org/en/)  
 Email: [info@bih-charite.de](mailto:info@bih-charite.de)  
 
-Organizing Committee of the de.KCDSummer School 2024
+Organizing Committee of the de.KCDSummer School 2024  
 Institute of Digital Health   
 AG Prof. Dr. Roland Eils  
-Group Cloud & IT 
+Group Cloud & IT  
 Email: [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de)  
 
 #### Name and address of the data protection officer
