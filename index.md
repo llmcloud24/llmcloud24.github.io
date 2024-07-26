@@ -35,7 +35,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Target audience:** Everyone interested in digging into the technical and organizational details of deploying large language models for research via cloud infrastructure. Most of our trainers come from a biomedical and IT background. However, we are looking forward to an interdisciplinary exchange with research-developers and developer-researchers from all kinds of academic disciplines.
 
-**Prerequisites:**  In order to be able to follow the practical exercises, you will need at least basic terminal knowledge (Linux/OSX Terminal). An affinity for IT and previous coding experience will help you on your way. We will provide detailed step-by-step instructions in writing throughout and after the workshop. 
+**Prerequisites:**  In order to be able to follow the practical exercises, you will need at least basic terminal knowledge. Some experience with programming languages - ideally python, but R, perl, SQL etc. are also fine - and basic knowledge of docker is recommended. We will provide detailed step-by-step instructions in writing throughout and after the workshop.
 
 **Learning goals:** Participants will deploy their own LLM in the de.NBI cloud via a step-by-step guided journey throughout an entire lifecycle from design via deployment to productive operation.
 
@@ -62,7 +62,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Contact:** For more information, please email Lisa Schaak, [lisa.schaak@bih-charite.de](mailto:lisa.schaak@bih-charite.de).
 
-**Registration:** Please register via the [events.hifis.net webform](https://events.hifis.net/event/1712) by Monday, September 9, 2024. Participation in the hands-on section is limited to a maximum of 30 people. First come, first served. 
+**Registration:** Please register via the [events.hifis.net webform](https://events.hifis.net/event/1712) by Monday, September 9, 2024. Participation is limited to a maximum of 40 people. First come, first served. 
 
 **Costs & Benefits:** Registration for the [de.KCD](https://datenkompetenz.cloud/) summer school is free of charge. We will not be able to offer any ECTS credit points but we can provide you with a certificate of attendance upon request. 
 
