@@ -57,7 +57,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Dates:** Monday, September 16 - Friday, September 20, 2024.
 
-**Duration:** Monday - Thursday 10.00-12.00 and 13.00-15.00, Friday 10.00 - 13.00
+**Time:** Monday - Thursday 10.00-12.00 and 13.00-15.00, Friday 10.00 - 13.00.
 
 **Location:** Online via Microsoft Teams.
 
