@@ -29,6 +29,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 - **Martin Braun:** Berlin Institute of Health @ Charité – Developer at the [Research Group Cloud & IT](https://www.hidih.org/research/health-data)
 - **Jakob Mathis:** Berlin Institute of Health @ Charité – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
 - **Foo Wei Ten:** Berlin Institute of Health @ Charité – Systems Administrator [Cloud & IT](https://www.hidih.org/research/health-data)
+- **Lisa Schaak:** Berlin Institute of Health @ Charité - Technical Writer [Cloud & IT](https://www.hidih.org/research/health-data)
 
 
 ### Participants
@@ -43,7 +44,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 - **Day 1:** How to Cloud – Introduction, de.NBI Cloud & Project Idea  
     
-- **Day 2:**  How to Data – Data Management, Data Protection & Data Ethics  
+- **Day 2:** How to Data – Data Management, Data Protection & Data Ethics  
   
 - **Day 3:** How to LLM – Installation & Deployment of a Large Language Model 
     
@@ -56,7 +57,7 @@ Over the course of the week, we will walk you through the entire lifecycle of LL
 
 **Dates:** Monday, September 16 - Friday, September 20, 2024.
 
-**Duration:** Approx. 4h per day, including breaks.
+**Duration:** Monday - Thursday 10.00-12.00 and 13.00-15.00, Friday 10.00 - 13.00
 
 **Location:** Online via Microsoft Teams.
 
